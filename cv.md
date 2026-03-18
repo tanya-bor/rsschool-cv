@@ -1,4 +1,4 @@
-## [rsschool-cv](https://app.rs.school/course)
+## [rsschool-cv](https://app.rs.school/course/student/dashboard?course=js-fe-preschool-2026q1)
 
 # Tatiana Borisevich
 
