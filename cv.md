@@ -1,6 +1,7 @@
 ## [rsschool-cv](https://app.rs.school/course/student/dashboard?course=js-fe-preschool-2026q1)
 
 # Tatiana Borisevich
+![photo](/photo_2025-09-05_14-23-08.jpg "Photo")
 
 ## My Contact Info:
 ***Phone:*** +375292081550
