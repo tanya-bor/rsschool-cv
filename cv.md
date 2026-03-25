@@ -1,7 +1,7 @@
 ## [rsschool-cv](https://app.rs.school/course/student/dashboard?course=js-fe-preschool-2026q1)
 
 # Tatiana Borisevich
-![photo](./photo_2025-09-05_14-23-08.jpg "Photo")
+![photo](./assets/img/photo.jpg "Photo")
 
 ## My Contact Info:
 ***Phone:*** +375292081550
@@ -10,7 +10,7 @@
 
 ***Telegram:*** @TatBorisevich
 
-***GitHub:*** [taya-bor](https://github.com/tanya-bor)
+***GitHub:*** [tanya-bor](https://github.com/tanya-bor)
 
 # About Me:
 I'm 31 years old. I currently work as a chief accountant. I'm looking to change careers, so I'm undergoing training. I really need in activities where I can develop during my life. That is why I`m here. My goal is to gain knowledge in the field of front-end development.
