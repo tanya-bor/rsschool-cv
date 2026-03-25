@@ -10,7 +10,7 @@
 
 ***Telegram:*** @TatBorisevich
 
-***GitHub:*** [taya-bor](https://github.com/tanya-bor)
+***GitHub:*** [tanya-bor](https://github.com/tanya-bor)
 
 # About Me:
 I'm 31 years old. I currently work as a chief accountant. I'm looking to change careers, so I'm undergoing training. I really need in activities where I can develop during my life. That is why I`m here. My goal is to gain knowledge in the field of front-end development.
