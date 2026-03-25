@@ -1,0 +1,158 @@
+* {
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+}
+
+body {
+   font-family: 'Roboto', sans-serif;
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 1.5;
+   color: #301313;
+   min-height: 100vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+
+.container {
+   max-width: 1440px;
+   margin: 0 auto;
+}
+
+.nav-list {
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+   list-style: none;
+}
+
+html {
+   scroll-behavior: smooth;
+}
+
+.nav-link {
+   color: rgb(145, 14, 14);
+   padding: 0 20px;
+   line-height: 50px;
+   transition: 0.5s;
+   text-decoration: none;
+}
+
+.nav-link:hover {
+   color: rgb(255, 101, 234);
+   background-color: rgb(250, 227, 227);
+   text-decoration: underline;
+   transition: 0.3s;
+   cursor: pointer
+}
+
+.main-container {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.section {
+   width: 50%;
+}
+
+@media (max-width: 768px) {
+   .section {
+      width: 100%;
+   }
+}
+
+.section-title {
+   font-size: 20px;
+   font-weight: 400;
+   text-transform: uppercase;
+   letter-spacing: 5px;
+   color: #5f1313;
+}
+
+.section-title img {
+   width: 150px;
+   height: 150px;
+   border-radius: 50%;
+   object-fit: cover;
+}
+
+.list {
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+}
+
+.item {
+   position: relative;
+   padding-left: 30px;
+   list-style: none;
+}
+
+.item::before {
+   content: "";
+   position: absolute;
+   top: 8px;
+   left: 15px;
+   width: 4px;
+   height: 4px;
+   border: 1px solid #998282;
+   border-radius: 50%;
+}
+
+.item span {
+   font-weight: bold;
+   font-style: italic;
+}
+
+.item a {
+   text-decoration: none;
+   color: #801736;
+   transition: 0.5s;
+}
+
+.item a:hover {
+   color: #f59425;
+   text-decoration: underline;
+   transition: 0.5s;
+}
+
+h2 {
+   margin-bottom: 10px;
+   letter-spacing: 3px;
+   color: #961212;
+}
+
+.section {
+   margin: 20px;
+}
+
+footer {
+   padding: 20px;
+}
+
+footer.container {
+   display: flex;
+   justify-content: flex-end;
+}
+
+.footer-logo {
+   display: inline-block;
+}
+
+.footer-logo img {
+   width: 100px;
+   height: auto;
+   opacity: 0.8;
+   transition: 0.3s;
+}
+
+.footer-logo img:hover {
+   opacity: 1;
+}
+
+.footer-container {
+   display: flex;
+   justify-content: space-between;
+}
